@@ -1,0 +1,9 @@
+/venv/
+/uploads/
+*.pyc
+/__pycache__/
+/downloads/
+.idea
+tags
+*.http
+.DS_Store
